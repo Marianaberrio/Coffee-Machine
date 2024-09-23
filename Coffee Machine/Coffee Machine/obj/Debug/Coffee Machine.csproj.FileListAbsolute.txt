@@ -1,0 +1,12 @@
+C:\Users\mberr\Desktop\University\Intec\Trimestre 4\Desarrollo de software II\Tareas\Coffee Machine\Coffee Machine\bin\Debug\Coffee Machine.exe.config
+C:\Users\mberr\Desktop\University\Intec\Trimestre 4\Desarrollo de software II\Tareas\Coffee Machine\Coffee Machine\bin\Debug\Coffee Machine.exe
+C:\Users\mberr\Desktop\University\Intec\Trimestre 4\Desarrollo de software II\Tareas\Coffee Machine\Coffee Machine\bin\Debug\Coffee Machine.pdb
+C:\Users\mberr\Desktop\University\Intec\Trimestre 4\Desarrollo de software II\Tareas\Coffee Machine\Coffee Machine\bin\Debug\Guna.UI.dll
+C:\Users\mberr\Desktop\University\Intec\Trimestre 4\Desarrollo de software II\Tareas\Coffee Machine\Coffee Machine\obj\Debug\Coffee Machine.csproj.AssemblyReference.cache
+C:\Users\mberr\Desktop\University\Intec\Trimestre 4\Desarrollo de software II\Tareas\Coffee Machine\Coffee Machine\obj\Debug\Coffee_Machine.Form1.resources
+C:\Users\mberr\Desktop\University\Intec\Trimestre 4\Desarrollo de software II\Tareas\Coffee Machine\Coffee Machine\obj\Debug\Coffee_Machine.Properties.Resources.resources
+C:\Users\mberr\Desktop\University\Intec\Trimestre 4\Desarrollo de software II\Tareas\Coffee Machine\Coffee Machine\obj\Debug\Coffee Machine.csproj.GenerateResource.cache
+C:\Users\mberr\Desktop\University\Intec\Trimestre 4\Desarrollo de software II\Tareas\Coffee Machine\Coffee Machine\obj\Debug\Coffee Machine.csproj.CoreCompileInputs.cache
+C:\Users\mberr\Desktop\University\Intec\Trimestre 4\Desarrollo de software II\Tareas\Coffee Machine\Coffee Machine\obj\Debug\Coffee M.062D73D4.Up2Date
+C:\Users\mberr\Desktop\University\Intec\Trimestre 4\Desarrollo de software II\Tareas\Coffee Machine\Coffee Machine\obj\Debug\Coffee Machine.exe
+C:\Users\mberr\Desktop\University\Intec\Trimestre 4\Desarrollo de software II\Tareas\Coffee Machine\Coffee Machine\obj\Debug\Coffee Machine.pdb
